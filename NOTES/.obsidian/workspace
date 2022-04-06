@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "03a6858501fa823c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4c5644e9eb48c6d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PYTHON 3.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97cacc9862380008",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b335e60ffca754b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe9e8065d4b73273",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9f966303cee69b4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6fd92078c01f3630",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8503b0977c1e2e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13cf06f682466349",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PYTHON 3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e4c5644e9eb48c6d",
+  "lastOpenFiles": [
+    "PYTHON 3.md"
+  ]
+}
