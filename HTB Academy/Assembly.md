@@ -17,3 +17,4 @@ Has two parts: `Data`, which is used to hold variables, and `.bss`, which is use
 Main assembly instructions are loaded into this segment to be fetched and executed by the CPU.
 
 
+Although this segmentation applies to the entire RAM, `each application is allocated its Virtual Memory when it is run`. This means that each application would have its own `stack`, `heap`, `data`, and `text` segments.
