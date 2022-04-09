@@ -2,6 +2,7 @@
 
 
 
+
 **MITRE ATT&CK Tactics:** 
 ● Reconnaissance 
 ● Resource Development
