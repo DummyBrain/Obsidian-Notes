@@ -18,3 +18,14 @@ Main assembly instructions are loaded into this segment to be fetched and execut
 
 
 Although this segmentation applies to the entire RAM, `each application is allocated its Virtual Memory when it is run`. This means that each application would have its own `stack`, `heap`, `data`, and `text` segments.
+
+![[Pasted image 20220416200111.png]]
+
+![[Pasted image 20220416200135.png]]
+
+![[Pasted image 20220416201232.png]]
+
+![[Pasted image 20220416202221.png]]
+![[Pasted image 20220417214929.png]]
+
+---
