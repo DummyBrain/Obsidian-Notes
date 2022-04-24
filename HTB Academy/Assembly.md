@@ -29,4 +29,3 @@ Although this segmentation applies to the entire RAM, `each application is alloc
 ![[Pasted image 20220417214929.png]]
 
 -
- 
