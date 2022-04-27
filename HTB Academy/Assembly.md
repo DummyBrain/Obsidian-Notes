@@ -28,4 +28,7 @@ Although this segmentation applies to the entire RAM, `each application is alloc
 ![[Pasted image 20220416202221.png]]
 ![[Pasted image 20220417214929.png]]
 
--
+-   `Data Registers` - are usually used for storing instructions/syscall arguments. The primary data registers are: `rax`, `rbx`, `rcx`, and `rdx`. The `rdi` and `rsi` registers also exist and are usually used for the instruction `destination` and `source` operands. Then, we have secondary data registers that can be used when all previous registers are in use, which are `r8`, `r9`, and `r10`.
+    
+-   `Pointer Registers` - are used to store specific important address pointers. The main pointer registers are the Base Stack Pointer `rbp`, which points to the beginning of the Stack, the Current Stack Pointer `rsp`, which points to the current location within the Stack (top of the Stack), and the Instruction Pointer `rip`, which holds the address of the next instruction.
+- ![[Pasted image 20220427222959.png]]
