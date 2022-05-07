@@ -1,5 +1,6 @@
 ![[Pasted image 20220409165000.png]]
 
+
 `Stack`
 
 Has a Last-in First-out (LIFO) design and is fixed in size. Data in it can only be accessed in a specific order by push-ing and pop-ing data.

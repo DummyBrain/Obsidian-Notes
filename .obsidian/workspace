@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7fda420437a922e0",
+        "id": "ea7d7d78b7edeee2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HTB Academy/Assembly.md",
+            "file": "NOTES/HTB Academy/Assembly.md",
             "mode": "source",
             "source": false
           }
@@ -48,6 +48,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "de7f3ff00a3e1bdc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -69,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB Academy/Assembly.md",
+                "file": "NOTES/HTB Academy/Assembly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7fda420437a922e0",
+  "active": "ea7d7d78b7edeee2",
   "lastOpenFiles": [
-    "HTB Academy/Assembly.md",
+    "NOTES/HTB Academy/Assembly.md",
+    "NOTES/Pasted image 20220427222959.png",
+    "NOTES/Pasted image 20220409165000.png",
+    "NOTES/Coursera/Infosec Institute/Python for CyberSecurity.md",
     "NOTES/INTRO TO ASSEMBLY LANGUAGE.md",
-    "Pasted image 20220409165000.png",
+    "NOTES/PYTHON 3.md",
+    "NOTES/Pasted image 20220416200111.png",
     "NOTES/Pasted image 20220417214929.png",
     "NOTES/Pasted image 20220416202221.png",
-    "NOTES/Pasted image 20220416201232.png",
-    "NOTES/Pasted image 20220416200135.png",
-    "NOTES/Pasted image 20220416200111.png",
-    "Pasted image 20220409164945.png",
-    "Pasted image 20220409164913.png"
+    "NOTES/Pasted image 20220416201232.png"
   ]
 }
